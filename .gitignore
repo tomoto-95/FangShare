@@ -13,3 +13,6 @@ local.properties
 
 # 构建产物 APK
 *.apk
+
+# 签名密钥（切勿提交）
+/keystore/
