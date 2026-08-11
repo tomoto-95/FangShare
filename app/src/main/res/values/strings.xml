@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanShare</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_files">文件</string>
+    <string name="tab_devices">设备</string>
+    <string name="tab_groups">家庭组</string>
+    <string name="send_files">发送文件</string>
+    <string name="receive_files">接收文件</string>
+    <string name="no_devices">未发现设备</string>
+    <string name="no_transfer_history">暂无传输记录</string>
+    <string name="wifi_not_connected">WiFi 未连接</string>
+    <string name="wifi_not_connected_desc">请连接到 WiFi 网络以使用文件传输功能</string>
+    <string name="create_group">创建家庭组</string>
+    <string name="join_group">加入家庭组</string>
+    <string name="group_secret">加入码</string>
+    <string name="select_device">选择接收设备</string>
+    <string name="transferring">传输中</string>
+    <string name="transfer_complete">传输完成</string>
+    <string name="transfer_failed">传输失败</string>
+    <string name="scanning_devices">搜索设备中…</string>
+    <string name="permission_required">需要文件访问权限</string>
+    <string name="file_server_running">文件接收服务运行中</string>
+</resources>
