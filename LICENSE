@@ -1,54 +1,72 @@
-Fangshare双重许可协议
-================================
+Fangshare Dual License
+=======================
 
-版权所有 (c) 2026 Fangshare 开发者
-保留所有权利。
+Copyright (c) 2026 Fangshare Developers
+All rights reserved.
 
-本软件采用双重许可模式（Dual License）。使用本软件即表示您同意以下
-条款。两种许可模式只能择一适用，授权范围不相互叠加。
-
---------------------------------------------------------------------
-
-【模式一：开源许可（免费，非商业用途）】
-
-适用对象：个人学习、研究、测试及非商业用途的使用者。
-
-允许：
-1. 个人学习、研究、测试目的的使用；
-2. 个人设备间的安装与传输使用；
-3. 非商业用途的修改与个人使用。
-
-禁止：
-1. 任何形式的商业用途（详见模式二）；
-2. 未经授权对本软件进行再分发、转售；
-3. 移除、篡改或遮挡本协议及版权声明。
+This software is licensed under a dual-license model. By using this
+software, you agree to the terms below. Only one license mode may be
+applied at a time; the rights granted under the two modes are not
+cumulative.
 
 --------------------------------------------------------------------
 
-【模式二：商业许可（付费授权，商用必须取得）】
+[MODE 1: OPEN-SOURCE LICENSE (FREE, NON-COMMERCIAL USE)]
 
-适用对象：任何商业用途的使用者。
+Applicable to: individuals using the software for personal learning,
+research, testing, or other non-commercial purposes.
 
-商业用途包括但不限于：
-1. 出售、出租、转售本软件或其部分；
-2. 将本软件（含修改版）集成到商业产品、商业 App 或商业服务中；
-3. 以营利为目的提供本软件或基于本软件的托管/分发服务；
-4. 任何以营利为目的的使用、部署或分发场景。
+Permitted:
+1. Use for personal learning, research, and testing;
+2. Installation and file transfer between personal devices;
+3. Modification and personal use for non-commercial purposes.
 
-使用条件：
-1. 从事任何商业用途前，**必须事先取得版权人的书面商业授权**；
-2. 商业授权的方式、费用与条款由版权人与使用者单独协商确定；
-3. 获得商业授权后，可在授权范围内使用本软件，不受模式一限制。
+Prohibited:
+1. Any form of commercial use (see Mode 2);
+2. Redistribution or resale of the software without authorization;
+3. Removal, alteration, or concealment of this license or the
+   copyright notice.
 
 --------------------------------------------------------------------
 
-免责声明
---------
-本软件按"现状"（AS IS）提供，作者不对其适用性、可靠性或特定用途的
-适用性作任何明示或暗示的担保。因使用本软件而产生的任何直接或间接
-损失，作者不承担任何责任。
+[MODE 2: COMMERCIAL LICENSE (PAID LICENSE, REQUIRED FOR
+COMMERCIAL USE)]
 
-其他
-----
-本协议未尽事宜，由版权人另行解释。需要商业授权或对本协议有任何疑问，
-请联系版权人取得书面许可。
+Applicable to: any user engaging in commercial use of the software.
+
+Commercial use includes but is not limited to:
+1. Selling, renting, or reselling the software, in whole or in part;
+2. Integrating the software (including modified versions) into
+   commercial products, commercial apps, or commercial services;
+3. Providing the software, or hosting/distribution services based on
+   it, for profit;
+4. Any use, deployment, or distribution for profit-making purposes.
+
+Conditions of use:
+1. BEFORE engaging in any commercial use, you MUST obtain the
+   copyright holder's prior written commercial authorization;
+2. The terms, fees, and conditions of the commercial license shall be
+   negotiated separately between the copyright holder and the user;
+3. Once a commercial license is granted, the software may be used
+   within the scope of that authorization, free from the
+   restrictions of Mode 1.
+
+--------------------------------------------------------------------
+
+DISCLAIMER
+----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+OTHER
+-----
+Matters not covered by this license shall be interpreted by the
+copyright holder. If you require a commercial license or have any
+questions about this license, please contact the copyright holder to
+obtain written permission.
