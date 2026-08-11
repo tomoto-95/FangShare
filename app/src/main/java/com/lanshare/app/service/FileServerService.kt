@@ -105,7 +105,7 @@ class FileServerService : Service() {
 
         // 常驻模式：静音、不可滑动关闭、显示"常驻"文案
         return NotificationCompat.Builder(this, CHANNEL_ID)
-            .setContentTitle(if (persistent) "LanShare 副机常驻" else "LanShare 文件接收")
+            .setContentTitle(if (persistent) "Fangshare 副机常驻" else "Fangshare 文件接收")
             .setContentText(if (persistent) "常驻运行中，随时接收文件" else "正在监听文件传输…")
             .setSmallIcon(android.R.drawable.ic_menu_share)
             .setContentIntent(pendingIntent)
@@ -124,7 +124,7 @@ class FileServerService : Service() {
     private fun updateNotification(text: String) {
         try {
             val notification = NotificationCompat.Builder(this, CHANNEL_ID)
-                .setContentTitle("LanShare 文件接收")
+                .setContentTitle("Fangshare 文件接收")
                 .setContentText(text)
                 .setSmallIcon(android.R.drawable.ic_menu_share)
                 .setOngoing(true)

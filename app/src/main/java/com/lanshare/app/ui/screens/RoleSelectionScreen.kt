@@ -31,13 +31,13 @@ fun RoleSelectionScreen(
     ) {
         Icon(
             Icons.Filled.Send,
-            "LanShare",
+            "Fangshare",
             tint = MaterialTheme.colorScheme.primary,
             modifier = Modifier.size(72.dp)
         )
         Spacer(modifier = Modifier.height(16.dp))
         Text(
-            "LanShare",
+            "Fangshare",
             style = MaterialTheme.typography.headlineLarge,
             fontWeight = FontWeight.Bold
         )

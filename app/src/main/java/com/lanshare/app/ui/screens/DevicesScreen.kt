@@ -107,7 +107,7 @@ fun DevicesScreen(viewModel: MainViewModel) {
                 item { Text("其他设备", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(top = 8.dp)) }
                 items(otherDevices, key = { it.id }) { DeviceRow(it, false, { selectedDeviceForSend = it; filePickerLauncher.launch(arrayOf("*/*")) }, if (role == MainViewModel.DeviceRole.HOST) {{ browseTarget = it }} else null) }
             }
-            if (allDevices.isEmpty() && networkStatus.isConnected) { item { EmptyState(Icons.Outlined.SearchOff, "搜索设备中…", "确保其他设备也打开了 LanShare 并连接同一 WiFi") } }
+            if (allDevices.isEmpty() && networkStatus.isConnected) { item { EmptyState(Icons.Outlined.SearchOff, "搜索设备中…", "确保其他设备也打开了 Fangshare 并连接同一 WiFi") } }
             item { Spacer(Modifier.height(16.dp)) }
         }
     }

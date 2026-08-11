@@ -113,7 +113,7 @@ fun HomeScreen(viewModel: MainViewModel) {
             title = {
                 Column {
                     Text(
-                        "LanShare",
+                        "Fangshare",
                         style = MaterialTheme.typography.headlineSmall,
                         fontWeight = FontWeight.Bold
                     )
