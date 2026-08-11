@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.lanshare.app"
+    namespace = "com.fangshare.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.lanshare.app"
+        applicationId = "com.fangshare.app"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

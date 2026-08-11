@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LanShare"
+rootProject.name = "Fangshare"
 include(":app")
